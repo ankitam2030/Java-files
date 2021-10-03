@@ -73,8 +73,10 @@ public class Passengers {
                     System.out.println(cat + "\t\t");
                 }
             }
+          
         };
         thread2.start();
         scanner.close();
     }
+    System.out.println("Done");
 }
