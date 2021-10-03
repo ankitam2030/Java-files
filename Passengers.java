@@ -39,7 +39,7 @@ class Passenger {
     }
 }
 
-public class Q3 {
+public class Passengers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter number of users: ");
