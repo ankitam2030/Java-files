@@ -12,7 +12,7 @@ interface InsuranceForVehicle {
     int getInsurance();
 }
 
-public class Q2 implements VehicleLoan, InsuranceForVehicle {
+public class VehicleLoanAndInsurance implements VehicleLoan, InsuranceForVehicle {
 
     String vehicleNo;
     String model_Name;
