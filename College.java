@@ -85,5 +85,6 @@ public class College {
                 break;
         }
         scanner.close();
-    }
+    } 
+    system.out.println(" The program ends here");
 }
